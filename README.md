@@ -8,7 +8,7 @@ Chair: Lance Waller, Emory University
 
 - Mine Cetinkaya-Rundel (Duke + RStudio) - Data Science as a Gateway to Statistics
 
-- Michael I. Love (UNC) - Teaching Data Science for Life Sciences
+- Michael I. Love (UNC) - [Teaching Data Science for Life Sciences](https://goo.gl/5s2HXL)
 
 - Garrett Grolemund - Make Interactive Web Tutorials with learnr and R
 
