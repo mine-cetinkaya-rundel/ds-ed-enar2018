@@ -6,7 +6,7 @@ Chair: Lance Waller, Emory University
 
 ## Talks
 
-- Mine Cetinkaya-Rundel (Duke + RStudio) - Data Science as a Gateway to Statistics - [Slides]()
+- [Mine Cetinkaya-Rundel](@minebocek) (Duke + RStudio) - Data Science as a Gateway to Statistics - [Slides]()
 
 In this talk we will discuss a data science course designed to
 serve as a gateway to the discipline of statistics, the statistics
