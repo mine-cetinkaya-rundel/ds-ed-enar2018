@@ -6,7 +6,7 @@ Chair: Lance Waller, Emory University
 
 ## Talks
 
-- [Mine Cetinkaya-Rundel](@mine-cetinkaya-rundel) (Duke + RStudio) - Data Science as a Gateway to Statistics - [Slides]()
+- [Mine Cetinkaya-Rundel](https://github.com/mine-cetinkaya-rundel/) (Duke + RStudio) - Data Science as a Gateway to Statistics - [Slides](/slides/ds-gateway.pdf)
 
 In this talk we will discuss a data science course designed to
 serve as a gateway to the discipline of statistics, the statistics
@@ -29,7 +29,7 @@ our experience of growing the course from a small seminar
 course for first-year undergraduates to a larger course open to
 the entire undergraduate student body.
 
-- Michael I. Love (UNC) - Teaching Data Science for Life Sciences - [Slides](https://goo.gl/5s2HXL)
+- [Michael I. Love](https://github.com/mikelove) (UNC) - Teaching Data Science for Life Sciences - [Slides](https://goo.gl/5s2HXL)
 
 Biologists and biomedical researchers find their fields have
 rapidly advanced toward a state where experiments produce
@@ -46,7 +46,7 @@ statistical content of short courses and MOOCs available
 to these scientists to augment their data analytic skills for
 modern datasets
 
-- Garrett Grolemund - Make Interactive Web Tutorials with learnr and R - [Slides & demo](https://vimeo.com/261761874)
+- [Garrett Grolemund](https://github.com/garrettgman) - Make Interactive Web Tutorials with learnr and R - [Slides & demo](https://vimeo.com/261761874)
 
 The learnr R package provides a new multimedia approach
 for teaching statistics and programming with R. With learnr,
