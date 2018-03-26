@@ -48,7 +48,7 @@ modern datasets
 
 - [Garrett Grolemund](https://github.com/garrettgman) - Make Interactive Web Tutorials with learnr and R - [Slides & demo](https://vimeo.com/261761874)
 
-The learnr R package provides a new multimedia approach
+The `learnr` R package provides a new multimedia approach
 for teaching statistics and programming with R. With learnr,
 teachers can combine text, diagrams, videos, pacing cues,
 code exercises, multiple choice questions, automated
@@ -59,6 +59,8 @@ to host them online. This talk will demonstrate the learnr
 package and examine several best practices for teaching in
 a multi-media, self paced format format, a format that may
 be new to many teachers.
+
+The `learnr` R package and tutorials can be found at https://rstudio.github.io/learnr/.
 
 - Frauke Kreuter (University of Maryland + University of Mannheim) - Teaching Survey and Data Science Outside Regular Classroom Settings - [Slides](/slides/Kreuter_ENAR_03252018.pdf)
 
