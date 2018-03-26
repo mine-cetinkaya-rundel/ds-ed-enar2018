@@ -81,3 +81,9 @@ strong peer-to-peer elements to show remarkable successes
 in brining non-technical people of all ages into a situation
 where they can critically analyze complex data, and learn
 how to self-enhance their skillset.
+
+## Links
+
+* [Requesting Your Input on the Draft NIH Strategic Plan for Data Science](https://nexus.od.nih.gov/all/2018/03/05/requesting-your-input-on-the-draft-nih-strategic-plan-for-data-science/) input due 4/2/2018
+* [PDF Strategic Plan](https://grants.nih.gov/grants/rfi/NIH-Strategic-Plan-for-Data-Science.pdf)
+* [Comments from Jason Williams, Michael Love and others](https://github.com/JasonJWilliamsNY/2018_nih_datascience_rfi)
