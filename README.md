@@ -6,9 +6,7 @@ Chair: Lance Waller, Emory University
 
 ## Talks
 
-- Mine Cetinkaya-Rundel (Duke + RStudio) - Data Science as a Gateway to Statistics
-
-[Slides]()
+- Mine Cetinkaya-Rundel (Duke + RStudio) - Data Science as a Gateway to Statistics - [Slides]()
 
 In this talk we will discuss a data science course designed to
 serve as a gateway to the discipline of statistics, the statistics
@@ -31,9 +29,7 @@ our experience of growing the course from a small seminar
 course for first-year undergraduates to a larger course open to
 the entire undergraduate student body.
 
-- Michael I. Love (UNC) - Teaching Data Science for Life Sciences
-
-[Slides](https://goo.gl/5s2HXL)
+- Michael I. Love (UNC) - Teaching Data Science for Life Sciences - [Slides](https://goo.gl/5s2HXL)
 
 Biologists and biomedical researchers find their fields have
 rapidly advanced toward a state where experiments produce
@@ -50,9 +46,7 @@ statistical content of short courses and MOOCs available
 to these scientists to augment their data analytic skills for
 modern datasets
 
-- Garrett Grolemund - Make Interactive Web Tutorials with learnr and R
-
-[Slides & demo](https://vimeo.com/261761874)
+- Garrett Grolemund - Make Interactive Web Tutorials with learnr and R - [Slides & demo](https://vimeo.com/261761874)
 
 The learnr R package provides a new multimedia approach
 for teaching statistics and programming with R. With learnr,
@@ -66,9 +60,7 @@ package and examine several best practices for teaching in
 a multi-media, self paced format format, a format that may
 be new to many teachers.
 
-- Frauke Kreuter (University of Maryland + University of Mannheim) - Teaching Survey and Data Science Outside Regular Classroom Settings
-
-[Slides](/slides/Kreuter_ENAR_03252018.pdf)
+- Frauke Kreuter (University of Maryland + University of Mannheim) - Teaching Survey and Data Science Outside Regular Classroom Settings - [Slides](/slides/Kreuter_ENAR_03252018.pdf)
 
 Over the last three years we experimented with various
 events and teaching activities to bring non-STEM students
