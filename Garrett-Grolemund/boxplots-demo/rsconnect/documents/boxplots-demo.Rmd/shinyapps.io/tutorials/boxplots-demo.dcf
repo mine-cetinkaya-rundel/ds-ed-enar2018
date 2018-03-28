@@ -1,0 +1,12 @@
+name: boxplots-demo
+title: boxplots-demo
+username:
+account: tutorials
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 307640
+bundleId: 1287256
+url: https://tutorials.shinyapps.io/boxplots-demo/
+when: 1522006854.16183
+asMultiple: FALSE
+asStatic: FALSE
